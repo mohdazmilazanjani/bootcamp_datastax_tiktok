@@ -57,8 +57,8 @@ exports.handler = async function () {
     },
     {
       id: 0,
-      name: "Lana Del Mont",
-      username: "modified lana_del_away",
+      name: "Lana Del Mont - modified",
+      username: "lana_del_away",
       avatar: "https://i.imgur.com/jONHmE5.png",
       is_followed: true,
       video: "https://i.imgur.com/H9UX0Jm.mp4",
